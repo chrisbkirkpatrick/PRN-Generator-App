@@ -1,0 +1,8 @@
+streamlit
+numpy
+timeit
+streamlit.components.v1
+matplotlib.pyplot
+plotly.express
+itertools
+pandas
