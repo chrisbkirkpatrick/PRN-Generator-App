@@ -2,5 +2,4 @@ streamlit
 numpy
 matplotlib
 plotly.express
-itertools
 pandas
