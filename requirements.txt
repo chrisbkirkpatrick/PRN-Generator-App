@@ -1,6 +1,6 @@
 streamlit
 numpy
-timeit==3.11.4
+timeit==3.11
 streamlit.components.v1
 matplotlib.pyplot
 plotly.express
